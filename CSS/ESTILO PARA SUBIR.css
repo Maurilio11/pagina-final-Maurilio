@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1{
+    text-align: center;
+}
+
+.piedepagina{
+    text-align: center;
+}
+
+body{
+    background-image: url("file:///C:/Users/UANE/Documents/MAURILIO%20TAREAS/PAGINA%20PARA%20SUBIR/IMAGENES/fondo%202.jpg");
+}
